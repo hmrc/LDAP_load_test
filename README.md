@@ -3,7 +3,9 @@
 
 This uses the code from this repo: https://github.com/hamano/lb to compile a binary - a copy of which is included in this repo. 
 
-The file lb_run.sh contains working example syntax and variables. The lb binary should be in the same directory. 
+The file lb_run.sh contains working example syntax and variables. The lb binary should be in the same directory.
+
+running ./lb_run.sh will run the binary with the variables expressed in the file.
 
 
 ### License
