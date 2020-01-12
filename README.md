@@ -1,7 +1,10 @@
 
 # LDAP_load_test
 
-This is a placeholder README.md for a new repository
+This uses the code from this repo: https://github.com/hamano/lb to compile a binary - a copy of which is included in this repo. 
+
+The file lb_run.sh contains working example syntax and variables. The lb binary should be in the same directory. 
+
 
 ### License
 
